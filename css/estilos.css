@@ -33,3 +33,11 @@ body {
   font-weight: normal;
   font-size: 0.8em;
 }
+
+.footer {
+  max-width: 72%;
+  padding: 5px 5px;
+  text-align: center;
+  border: 1px solid rebeccapurple;
+  margin: 0 auto;
+}
